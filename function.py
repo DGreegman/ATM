@@ -14,7 +14,7 @@ def get_full_name():
     full_name = first_name + " " + last_name
     print(full_name)
 
-# get_full_name() 
+get_full_name() 
 
 def add_number():
     num_one = int(input("Enter your first name: "))

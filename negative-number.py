@@ -1,4 +1,4 @@
-def check_negative_number(lst):
+""" def check_negative_number(lst):
     if not isinstance(lst, list):
         return 'This is not a list'
     for negative in lst:
@@ -7,4 +7,7 @@ def check_negative_number(lst):
             
             print(f'Negative number found in the list') 
             return negative
-print(check_negative_number([1, 2, -4, 9, -6]) )      
+print(check_negative_number([1, 2, -4, 9, -6]) ) 
+ """
+
+      
